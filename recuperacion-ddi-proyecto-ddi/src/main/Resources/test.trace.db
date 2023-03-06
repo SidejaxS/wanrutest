@@ -1,0 +1,9 @@
+2023-03-06 00:27:02 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EQUIPO" not found (this database is empty); SQL statement:
+SELECT * FROM equipo  [42104-210]
+2023-03-06 00:36:03 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EQUIPO" not found (this database is empty); SQL statement:
+SELECT * FROM equipo  [42104-210]
+2023-03-06 00:37:50 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "EQUIPO" not found (this database is empty); SQL statement:
+SELECT * FROM equipo  [42104-210]
